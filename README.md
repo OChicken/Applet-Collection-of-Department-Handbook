@@ -1,0 +1,2 @@
+# Applet-Collection-of-Department-Handbook
+这是SCUT物理与光电学院团委学生会学术科创部部门工作手册的小程序集锦
